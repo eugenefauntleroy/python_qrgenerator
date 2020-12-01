@@ -1,2 +1,2 @@
 # qrgenerator
-python script for generating QR code 
+A python script for generating QR code 
